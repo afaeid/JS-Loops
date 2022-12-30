@@ -8,3 +8,25 @@
 // sum = sum + x;
 // }
 // console.log(sum)
+
+// var sum = 0;
+// for(var x =1; x <=100; x++){
+// if(x%3==0 && x%5==0){
+//   document.write(' '+x+'+');
+//   sum = sum + x;
+// }
+// }
+// document.write('<br> = '+ sum);
+
+// var sum = 0;
+// var x = 1;
+// while(x<= 100){
+// if(x%3==0 && x%5==0){
+// sum = sum +x
+// document.write(' '+ x) 
+// }
+// x++
+// }
+// document.write('<br> = '+ sum)
+
+
