@@ -30,3 +30,13 @@
 // document.write('<br> = '+ sum)
 
 
+// use of break and continue keyword in js loops.
+
+// for (var s = 1; s <= 100; s = s + 1){
+// if(s == 50){
+//   continue;
+// }
+//     document.write(' '+ s)
+
+// }
+
